@@ -234,6 +234,7 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [skill-skill](https://github.com/jack-reson8/skill-skill) - Write and audit skills that actually change the output: forcing functions, triggerable descriptions, and a spec-based linter with a 0-100 health score and badge.
 
 ## 📰 Articles & Blog Posts
 
