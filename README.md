@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [renhua](https://github.com/jack-reson8/renhua) - Write Chinese posts and product copy in a real person's voice: strips AI tells (emoji lists, slogan endings), adds 网感 and humor from 17 patterns.
 
 
 ## 📘 Learning & Knowledge  
@@ -169,6 +170,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [post](https://github.com/jack-reson8/post-skill) - Make Xiaohongshu / X share-image sets that look native: App Store poster layout, real screenshots, faithful app-UI mocks, charts that aren't tables.
 
 
 ## 🏥 Health & Life Sciences
