@@ -201,6 +201,7 @@
 - [vibe-check](https://github.com/TexasBedouin/vibe-check) - Guide beginners from a vague app idea to a buildable plan with discovery, flows, and a visual blueprint.
 - [forward-deployed-selling](https://github.com/vonarmen-wq/forward-deployed-selling) - Enterprise AI sales methodology for ICP qualification, GTM strategy, deal coaching, and scoring.
 - [feature-track](https://github.com/JunsW/feature-track) - Repo-native shared feature memory that keeps coding agents aligned on status, docs, decisions, and risks.
+- [pro-launch](https://github.com/jack-reson8/pro-launch) - Build a product 0→1 taste-first: naming and trademark checks, references, style bible, UI loop, GTM and shipping, with phase gates that force real artifacts.
 
 
 ## 🛡 Security & Web Testing
